@@ -20,12 +20,6 @@ mat-card{
     margin-left: 36%;
     padding-top: 20%;
 }
-a:hover{
-    color:white;
-}
-a:active{
-    color: green;
-}
 .greetings{
     padding: 25%  17%;
     font-size: 300%;
